@@ -1,5 +1,9 @@
 hi this is mohit. just testing the git repo.
 
+<<<<<<< HEAD
 
 
 this is from the testing 2 foder
+=======
+askdgaksjdg
+>>>>>>> bb1196a54289a88507a33590017121fb6548a041
